@@ -1,0 +1,89 @@
+
+  <Database>
+    <Element>
+      <Key>
+        Convert
+      </Key>
+      <Item>
+        Convert
+      </Item>
+      <Category>
+        Serializer
+      </Category>
+      <TimeDate>
+        02:03:2017 08:38:16
+      </TimeDate>
+      <Description>
+        (de)serializes objects of type T (from)to strings
+      </Description>
+      <Data>
+        test.h
+      </Data>
+    </Element>
+    <Element>
+      <Key>
+        Properties
+      </Key>
+      <Item>
+        Properties
+      </Item>
+      <Category>
+        Assignment
+      </Category>
+      <TimeDate>
+        02:03:2017 08:38:16
+      </TimeDate>
+      <Description>
+        getting and setting properties in metadata
+      </Description>
+      <Data>
+        Properties.h
+      </Data>
+      <child>
+        Database
+      </child>
+    </Element>
+    <Element>
+      <Key>
+        Utilities
+      </Key>
+      <Item>
+        Utilities
+      </Item>
+      <Category>
+        Processing
+      </Category>
+      <TimeDate>
+        02:03:2017 08:38:16
+      </TimeDate>
+      <Description>
+        lambdas that provide mildly useful local processing
+      </Description>
+      <Data>
+        Utilities.h
+      </Data>
+    </Element>
+    <Element>
+      <Key>
+        XMLDocument
+      </Key>
+      <Item>
+        XMLDocument
+      </Item>
+      <Category>
+        XML Processing
+      </Category>
+      <TimeDate>
+        02:03:2017 08:38:16
+      </TimeDate>
+      <Description>
+        Program-friendly wrapper around an Abstract Syntax Tree (AST)
+      </Description>
+      <Data>
+        XMLDocument.h
+      </Data>
+      <child>
+        Database
+      </child>
+    </Element>
+  </Database>
